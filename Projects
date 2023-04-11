@@ -1,3 +1,4 @@
 Implement socket programming in go.
-Custom Rate limiter package in golang at middleware level.
+Implement Rate limiter package in golang at middleware level.
 Autocomplete system(Implement trie DS).
+Streaming response as we get the response from different API(As done in BFF in starting).
